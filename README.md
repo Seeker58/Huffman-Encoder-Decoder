@@ -1,4 +1,4 @@
-# Huffman-Encoder-Decoder
+# Huffman Encoder and Decoder
 A compression program using Huffman Encoding written in C++
 
 Presented in the Twenty-Second Annual Consortium For Computing Sciences in Colleges, Northeastern Conference (CCSCNE-2017) and SUNY Fredonia 19th Annual Student Research and Creativity Exposition
